@@ -29,6 +29,8 @@ CleanCode is a repository demonstrating best practices for writing clean, mainta
 - Select the `CleanCodeTest` scheme.
 - Press `Cmd+R` to run the application.
 
+- Can be an issue with the database. delete the one present in the Persistent folder and import it again.
+
 ### Running the Tests
 - Select the `CleanCodeTest` scheme.
 - Press `Cmd+U` to run the tests.
