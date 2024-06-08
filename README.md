@@ -3,19 +3,6 @@
 ## Introduction
 CleanCode is a repository demonstrating best practices for writing clean, maintainable, and efficient code using the Swift programming language. The repository features practical examples of MVVM architecture with coordinators, clean code principles, and comprehensive unit testing.
 
-### CleanCodeTest
-This directory contains the main application source code, organized to follow clean code principles.
-- **AppDelegate.swift**: Manages application lifecycle events.
-- **ViewController.swift**: Manages the main user interface.
-- **Models/**: Contains the data models used in the application.
-- **Views/**: Contains custom view components.
-- **Controllers/**: Manages the view controllers and the coordination logic.
-
-### CleanCodeTestTests
-This directory contains unit tests for the application.
-- **CleanCodeTestTests.swift**: General application tests.
-- **ModelTests.swift**: Tests for data models.
-
 ## Features
 - **MVVM Architecture**: Implements the Model-View-ViewModel architecture, promoting a clear separation of concerns and enhancing testability.
 - **Coordinators**: Uses the coordinator pattern to handle navigation, improving modularity and readability.
